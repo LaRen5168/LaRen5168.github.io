@@ -4,7 +4,7 @@
 
 สำหรับรายวิชา [OOP](https://wichit2s.github.io) 
 
-![download banner](./banner.jpg)
+![download banner](./maple-1079235_640.jpg)
 
 ## คำสั่ง git พื้นฐาน
 
