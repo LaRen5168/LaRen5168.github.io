@@ -45,4 +45,4 @@ for k,v in d.items():
    pip install streamlit
 
 
-นินา สมบัติ
+วสุธร ชมชื่น
